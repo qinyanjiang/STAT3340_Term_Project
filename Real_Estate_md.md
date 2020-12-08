@@ -48,7 +48,8 @@ qmplot(X6.longitude, X5.latitude, data = Data, maptype = "toner-lite", color = I
 ```
 ### 3.1 - Data Sources
 ### 3.2 - Real Estate
-### 3.3 - Additional data point
+### 3.3 - Data Visualization
+### 3.4 - Additional data point
 ## 4 - Methods
 ### 4.1 Multi-linear Regression
 ### 4.2 Model Adequacy
